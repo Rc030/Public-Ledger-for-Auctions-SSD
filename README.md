@@ -76,21 +76,4 @@ This project uses a `Makefile` to handle dependency downloads, compilation, and 
 - `lib/`: Downloaded dependency JARs.
 - `Makefile`: Automation script for build and run.
 
----
-
-## Contributing
-
-Contributions are welcome! Please open issues or pull requests for enhancements or bug fixes.
-
----
-
-## License
-
-MIT License
-
----
-
-## Contact
-
-For questions or support, please contact the maintainer.
 
